@@ -1,0 +1,15 @@
+
+.container {
+  background: #000;
+  padding: 0 30px;
+}
+
+.content {
+  height: 64px;
+  max-width: 100px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
